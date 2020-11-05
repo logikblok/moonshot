@@ -1,0 +1,17 @@
+body {
+  color: #000000;
+  font-family:Arial;
+  font-size:13px;
+  text-align:left;
+  background-color: #ffffff;
+  margin: 0px;
+  overflow: hidden;
+}
+  canvas
+  {vertical-align: top;}
+  #info {
+  color: #000000;
+  position: absolute;
+  width: 100%;
+  padding: 15px;
+}
