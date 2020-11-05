@@ -1,2 +1,2 @@
-# moonshot.github.io
-Submission for the game jam 2020
+# moonshot
+A submission for the game jam 2020
