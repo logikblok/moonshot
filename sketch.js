@@ -7,9 +7,6 @@ function setup() {
   //create the sprites
   earth = createSprite(600, 200, 50, 100);
   earth.addAnimation('floating', 'assets/earth_0001.png', 'assets/earth_0009.png');
-
-  circle = createSprite(400, 200, 50, 100);
-  circle.addAnimation('floating', 'assets/asterisk_circle0006.png', 'assets/asterisk_circle0008.png');
 }
 
 function draw() {
