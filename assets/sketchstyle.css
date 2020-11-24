@@ -2,10 +2,12 @@ body {
   color: #000000;
   font-family:Arial;
   font-size:13px;
-  text-align:left;
+  text-align:center;
   background-color: #ffffff;
   margin: 0px;
   overflow: hidden;
+  align-items: center;
+  justify-content: center;
 }
   canvas
   {vertical-align: top;}
